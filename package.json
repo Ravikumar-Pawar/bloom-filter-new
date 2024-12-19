@@ -1,6 +1,6 @@
 {
   "name": "bloom-filter-new",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Bloom filter implementation with ES6.",
   "main": "index.js",
   "scripts": {
