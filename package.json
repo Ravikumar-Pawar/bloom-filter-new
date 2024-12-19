@@ -1,0 +1,19 @@
+{
+  "name": "bloom-filter-new",
+  "version": "1.0.0",
+  "description": "Simple Bloom filter implementation with ES6.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bloom-filter",
+    "data-structures",
+    "false-positive",
+    "probabilistic",
+    "filter"
+  ],
+  "author": "Ravikumar Pawar",
+  "license": "MIT",
+  "type": "module"
+}
